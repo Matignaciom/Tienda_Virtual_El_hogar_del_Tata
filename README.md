@@ -33,3 +33,15 @@ carrito.agregarProducto(productoEjemplo, 3);
 // Genera una boleta electrónica con el nuevo producto
 console.log(carrito.generarBoletaElectronica());
 ```
+
+## Autor
+
+**Matias Ignacio Paredes Marquez** - [Perfil de GitHub](https://github.com/Matignaciom)
+
+## Agradecimientos
+
+Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mat.ignaciom95@gmail.com.
